@@ -28,11 +28,11 @@ bundle.  The following are the main files available:
 
 To extract elsarticle.cls from *.dtx: latex elsarticle.ins
 
-The documentation file is elsdoc.tex in the contrib directory.  To
+The documentation file is elsdoc.tex in the docs directory. To
 compile it:
-1. pdflatex elsdoc
-2. pdflatex elsdoc
-3. pdflatex elsdoc
+1. ```pdflatex elsdoc```
+2. ```pdflatex elsdoc```
+3. ```pdflatex elsdoc```
 
 or
 
